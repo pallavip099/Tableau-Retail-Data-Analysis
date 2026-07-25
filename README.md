@@ -21,3 +21,18 @@ The Walmart Retail data has 26 fields (city, customer name, order date, etc.) an
 5. Show the average profit
 6. Show the average discount
 7. Regional quarterly profit
+
+
+## DASHBOARD:
+<img width="1650" height="847" alt="Image" src="https://github.com/user-attachments/assets/fcec685f-ddbc-4fb2-ae06-3e19c48ce6bc" />
+
+
+## FINDINGS:
+
+1. South Dakota has the highest average profit $706 and West Virginia has the least profit -$29.
+2. The age group 85 years have showed maximum average profit while age group 90-95 year have shown losses.
+
+
+
+
+
