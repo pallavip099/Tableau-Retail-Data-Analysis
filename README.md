@@ -31,6 +31,10 @@ The Walmart Retail data has 26 fields (city, customer name, order date, etc.) an
 
 1. South Dakota has the highest average profit $706 and West Virginia has the least profit -$29.
 2. The age group 85 years have showed maximum average profit while age group 90-95 year have shown losses.
+3. Average sales is $1,775.88
+4. Average Profit is $181.18
+5. Average discount is $0.05
+6. In 2012 Q4 with $510 was the highest quarterly average profit from East region. In 2013 Q3 with $321 was the highest quarterly average profit from Central region. In 2014 Q4 with$383 was the highest quarterly average profit from Central region. In 2015 Q1 with $284 was the highest quarterly average profit from East region.
 
 
 
