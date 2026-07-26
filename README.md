@@ -2,7 +2,7 @@
 
 
 ## PROJECT NAME:
-### **Walmart Retail Data Analysis Using Tableau Dashboards - A Tableau Analysis Project**
+**Walmart Retail Data Analysis Using Tableau Dashboards - A Tableau Analysis Project**
 
 
 ## ABOUT PROJECT:
@@ -35,6 +35,9 @@ The Walmart Retail data has 26 fields (city, customer name, order date, etc.) an
 4. Average Profit is $181.18
 5. Average discount is $0.05
 6. In 2012 Q4 with $510 was the highest quarterly average profit from East region. In 2013 Q3 with $321 was the highest quarterly average profit from Central region. In 2014 Q4 with$383 was the highest quarterly average profit from Central region. In 2015 Q1 with $284 was the highest quarterly average profit from East region.
+
+
+
 
 
 
