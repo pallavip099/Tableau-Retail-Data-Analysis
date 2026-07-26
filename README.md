@@ -39,4 +39,3 @@ The Walmart Retail data has 26 fields (city, customer name, order date, etc.) an
 
 
 
-
